@@ -22,7 +22,7 @@ class EssayParser:
     def __init__(self, file: str):
         self.response = requests.get(url)
         if (self.response.status_code != 200):
-            raise ConnectionError("Failed to connect to https://www.collegeessayadvisors.com/supplemental-essay-guide/")
+            raise ConnectionError("Failed to connect to " + self.url)
         self.filePath = file
 
     def getURLs(self):
@@ -34,7 +34,7 @@ class EssayParser:
         linkcontainer = page.find('div', class_='row results-grid')
         return [link.get('href') for link in linkcontainer.find_all('a')]
 
-    def getAccessible(self):
+    def getAccessibleURLs(self):
         """
         Returns a list of all links found in the main essay guide that
         CAN be parsed and contain relevant information.
@@ -48,7 +48,7 @@ class EssayParser:
 
         return results
 
-    def getInaccessible(self):
+    def getInaccessibleURLs(self):
         """
         Returns a list of all links found in the main essay guide that
         CANNOT be parsed or contain irrelevant information.
@@ -67,8 +67,48 @@ class EssayParser:
 
     def getEssays(self):
         """
-        Returns a list of all POTENTIAL essays found within the links.
+        Creates a table of all POTENTIAL essays and replaces the entered file's 
+        JSON data with that data.
         """
+
+        entries = []
+
+        page = BeautifulSoup(self.response.text, 'html.parser')
+        linkcontainer = page.find('div', class_='row results-grid')
         
-    
+        for link in linkcontainer.find_all('a'):
+            href = link.get('href')
+            inner = BeautifulSoup(requests.get(href).text, 'html.parser')
+
+            if (inner.title.text != "403 Forbidden"):
+
+                innercontainer = inner.find('div', class_='guide-content')
+
+                text = link.text.strip()
+                text = text.split('2', 1)[0]
+                text = text.split('Supplemental', 1)[0]
+                text = text[:-1]
+
+                if (innercontainer is None):
+                    continue
+
+                for child in innercontainer.find_all('h3'):
+                    if child.name == 'h3':
+                        optional = ("optional" in child.text.lower())                        
+                        final_text = child.text.strip()
+                        data = {
+                            "link": href,
+                            "text": text,
+                            "essay": final_text,
+                            "college": "General",
+                            "optional": optional,
+                            "needs_review": (child.find_next_sibling().name == "h3" or child.find_previous_sibling().name == "h3" or len(child.text.strip()) < 40)
+                        }
+                        entries.append(data)
+
+        with open(self.filePath, 'w') as file:
+            json.dump(entries, file, indent=4)
+
+
         
+            

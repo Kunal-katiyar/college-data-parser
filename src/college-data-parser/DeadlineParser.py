@@ -23,7 +23,7 @@ class DeadlineParser:
         self.filePath = file
         response = requests.get(url)
         if (response.status_code != 200):
-                    raise ConnectionError("Failed to connect to https://www.collegeessayadvisors.com/supplemental-essay-guide/")
+            raise ConnectionError("Failed to connect to " + self.url)
         self.pdfData = BytesIO(response.content)
 
     def parseData(self):
