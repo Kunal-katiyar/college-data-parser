@@ -12,16 +12,18 @@ import json
 
 class DeadlineParser:
     """
-    The class that does the parsing.
+    The class that parses the CommonApp data.
 
     :param file: the file path that the JSON data should be uploaded to.
     """
-    url = "https://content.commonapp.org/Files/ReqGrid.pdf"
 
+    url = "https://content.commonapp.org/Files/ReqGrid.pdf"
 
     def __init__(self, file: str) :
         self.filePath = file
         response = requests.get(url)
+        if (response.status_code != 200):
+                    raise ConnectionError("Failed to connect to https://www.collegeessayadvisors.com/supplemental-essay-guide/")
         self.pdfData = BytesIO(response.content)
 
     def parseData(self):
@@ -52,7 +54,7 @@ class DeadlineParser:
     def addData(self, data):
         """
         Adds custom deadline data to the json file, for instance for colleges that
-        do not show up on the CommonApp grid.
+        do not show up on the CommonApp grid (such as MIT).
 
         :param data: The deadline data of the college you wish to add, either as a 
         list or dictionary.
