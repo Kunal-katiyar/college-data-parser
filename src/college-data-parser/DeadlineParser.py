@@ -49,4 +49,44 @@ class DeadlineParser:
         with open(self.filePath, "w") as file:
             json.dump(entries, file, indent = 4)
 
+    def addData(self, data):
+        """
+        Adds custom deadline data to the json file, for instance for colleges that
+        do not show up on the CommonApp grid.
+
+        :param data: The deadline data of the college you wish to add, either as a 
+        list or dictionary.
+        """
+
+        with open(self.filePath, "r") as file:
+            filedata = json.load(file)
+
+        if isinstance(data, list):
+            data = {
+                "college": data[0],
+                "ED_deadline": data[1],
+                "ED2_deadline": data[2],
+                "EA_deadline": data[3],
+                "EA2_deadline": data[4],
+                "REA_deadline": data[5],
+                "RD_deadline": data[6]
+            }
+            filedata.append(data)
+
+        if isinstance(data, dict):
+            if (data.keys() == filedata[0].keys()):
+                filedata.append(data)
+            else:
+                raise KeyError("Keys must match the defined structure: 'college', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
+
+        else:
+            raise TypeError("Invalid: data must either be a list or dict")
+
+        filedata = sorted(filedata, key=lambda x: x["college".lower()])
+
+        with open(self.filePath, "w") as f:
+            json.dump(filedata, f, indent=4)
+
+
+
     
