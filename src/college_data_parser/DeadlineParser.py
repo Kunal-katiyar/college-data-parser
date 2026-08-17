@@ -19,7 +19,7 @@ class DeadlineParser:
     """
 
     url = "https://content.commonapp.org/Files/ReqGrid.pdf"
-    keys = ["college", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]
+    required_keys = ["college", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]
 
     def __init__(self, file: str) :
         if not os.path.exists(file):
@@ -79,22 +79,43 @@ class DeadlineParser:
                 "REA_deadline": data[5],
                 "RD_deadline": data[6]
             }
-            filedata.append(data)
+            newData = []
+            flag = True
+            for item in filedata:
+                if (item["college"] == data["college"]):
+                    newData.append(data)
+                    flag = False
+                else:
+                    newData.append(item)
+            if flag:
+                newData.append(data)
+            filedata = newData
 
         if isinstance(data, dict):
-            for item in self.keys:
+            for item in self.required_keys:
                 if not item in data:
                     data[item] = ""
 
             if (data.keys() == filedata[0].keys()):
-                filedata.append(data)
+                newData = []
+                flag = True
+                for item in filedata:
+                    if (item["college"] == data["college"]):
+                        newData.append(data)
+                        flag = False
+                    else:
+                        newData.append(item)
+                if flag:
+                    newData.append(data)
+                
+                filedata = newData
             else:
                 raise KeyError("Only the following keys may be present: 'college', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
 
         else:
             raise TypeError("Invalid: data must either be a list or dict")
 
-        filedata = sorted(filedata, key=lambda x: x["college".lower()])
+        filedata = sorted(filedata, key=lambda x: x["college"].lower())
 
         with open(self.filePath, "w") as f:
             json.dump(filedata, f, indent=4)

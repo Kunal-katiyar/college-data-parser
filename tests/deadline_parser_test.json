@@ -45,24 +45,6 @@
         "RD_deadline": ""
     },
     {
-        "college": "AMDA College of the Performing Arts",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "AMDA The American Musical and Dramatic Academy",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
         "college": "Adams State University",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -190,6 +172,24 @@
     },
     {
         "college": "Alverno College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "AMDA College of the Performing Arts",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "AMDA The American Musical and Dramatic Academy",
         "ED_deadline": "",
         "ED2_deadline": "",
         "EA_deadline": "",
@@ -1071,15 +1071,6 @@
         "RD_deadline": "01/15/2027"
     },
     {
-        "college": "College of Wooster",
-        "ED_deadline": "11/1/2026",
-        "ED2_deadline": "1/15/2027",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "2/15/2027"
-    },
-    {
         "college": "College of the Atlantic",
         "ED_deadline": "11/15/2026",
         "ED2_deadline": "1/15/2027",
@@ -1096,6 +1087,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "01/15/2027"
+    },
+    {
+        "college": "College of Wooster",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
     },
     {
         "college": "Colorado College",
@@ -1287,15 +1287,6 @@
         "RD_deadline": "01/11/2027"
     },
     {
-        "college": "DePauw University",
-        "ED_deadline": "11/1/2026",
-        "ED2_deadline": "12/15/2026",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "12/15/2026",
-        "REA_deadline": "",
-        "RD_deadline": "2/1/2027"
-    },
-    {
         "college": "Dean College",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -1330,6 +1321,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "1/15/2027"
+    },
+    {
+        "college": "DePauw University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "12/15/2026",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
     },
     {
         "college": "Dickinson College",
@@ -1404,24 +1404,6 @@
         "RD_deadline": "01/04/2027"
     },
     {
-        "college": "EHL Hospitality Business School",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "ESCP Business School",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
         "college": "Earlham College",
         "ED_deadline": "11/1/2026",
         "ED2_deadline": "",
@@ -1459,6 +1441,15 @@
     },
     {
         "college": "Edgewood University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "EHL Hospitality Business School",
         "ED_deadline": "",
         "ED2_deadline": "",
         "EA_deadline": "",
@@ -1537,6 +1528,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "1/1/2027"
+    },
+    {
+        "college": "ESCP Business School",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
     },
     {
         "college": "Fairfield University",
@@ -2358,15 +2358,6 @@
         "RD_deadline": "04/01/2027"
     },
     {
-        "college": "LSU New Orleans",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
         "college": "La Roche University",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -2457,15 +2448,6 @@
         "RD_deadline": "Rolling"
     },
     {
-        "college": "LeMoyne-Owen College",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "07/26/2027"
-    },
-    {
         "college": "Lebanese American University - LAU",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -2491,6 +2473,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "01/01/2027"
+    },
+    {
+        "college": "LeMoyne-Owen College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
     },
     {
         "college": "Lesley University",
@@ -2587,6 +2578,15 @@
         "ED_deadline": "",
         "ED2_deadline": "",
         "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "LSU New Orleans",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "Rolling"
@@ -3780,204 +3780,6 @@
         "RD_deadline": "Rolling"
     },
     {
-        "college": "SUNY Alfred State College of Technology",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Binghamton University",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/15/2027"
-    },
-    {
-        "college": "SUNY Cobleskill",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY College at Brockport",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY College at Geneseo",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "03/01/2027"
-    },
-    {
-        "college": "SUNY College at Old Westbury",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY College of Environmental Science & Forestry",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "1/15/2027"
-    },
-    {
-        "college": "SUNY College of Technology at Canton",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Cortland",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Delhi",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Farmingdale State College",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Fredonia",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Morrisville State College",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY New Paltz",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Oneonta",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "04/01/2027"
-    },
-    {
-        "college": "SUNY Oswego",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Plattsburgh",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Polytechnic Institute",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Potsdam",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Purchase",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "Rolling"
-    },
-    {
-        "college": "SUNY Stony Brook University",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/15/2027"
-    },
-    {
-        "college": "SUNY, University at Albany",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "03/01/2027"
-    },
-    {
         "college": "Sacred Heart University",
         "ED_deadline": "11/15/2026",
         "ED2_deadline": "1/15/2027",
@@ -4185,15 +3987,6 @@
         "RD_deadline": "Rolling"
     },
     {
-        "college": "School of Visual Arts",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/14/2027"
-    },
-    {
         "college": "School of the Art Institute of Chicago",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -4201,6 +3994,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "01/15/2027"
+    },
+    {
+        "college": "School of Visual Arts",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/14/2027"
     },
     {
         "college": "Scripps College",
@@ -4626,6 +4428,204 @@
         "RD_deadline": "02/15/2027"
     },
     {
+        "college": "SUNY Alfred State College of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Binghamton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "college": "SUNY Cobleskill",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY College at Brockport",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY College at Geneseo",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "college": "SUNY College at Old Westbury",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY College of Environmental Science & Forestry",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "college": "SUNY College of Technology at Canton",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Cortland",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Delhi",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Farmingdale State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Fredonia",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Morrisville State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY New Paltz",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Oneonta",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "college": "SUNY Oswego",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Plattsburgh",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Polytechnic Institute",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Potsdam",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Purchase",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "college": "SUNY Stony Brook University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "college": "SUNY, University at Albany",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
         "college": "Swarthmore College",
         "ED_deadline": "11/15/2026",
         "ED2_deadline": "1/4/2027",
@@ -4995,15 +4995,6 @@
         "RD_deadline": "Rolling"
     },
     {
-        "college": "UMBC: University of Maryland, Baltimore County",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "02/01/2027"
-    },
-    {
         "college": "Ulster University",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -5011,6 +5002,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "Rolling"
+    },
+    {
+        "college": "UMBC: University of Maryland, Baltimore County",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
     },
     {
         "college": "Underwood International College, Yonsei University",
@@ -5040,15 +5040,6 @@
         "RD_deadline": "Rolling"
     },
     {
-        "college": "Universidad Privada Boliviana",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/29/2027"
-    },
-    {
         "college": "Universidad del Sagrado Corazon",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -5056,6 +5047,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "Rolling"
+    },
+    {
+        "college": "Universidad Privada Boliviana",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/29/2027"
     },
     {
         "college": "University College Dublin",
@@ -5517,15 +5517,6 @@
         "RD_deadline": "2/1/2027"
     },
     {
-        "college": "University of North Carolina Greensboro",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "3/1/2027"
-    },
-    {
         "college": "University of North Carolina at Chapel Hill",
         "ED_deadline": "",
         "ED2_deadline": "",
@@ -5533,6 +5524,15 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "01/15/2027"
+    },
+    {
+        "college": "University of North Carolina Greensboro",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
     },
     {
         "college": "University of North Texas",
@@ -5778,6 +5778,24 @@
         "RD_deadline": "1/15/2027"
     },
     {
+        "college": "University of the Highlands and Islands",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/01/2027"
+    },
+    {
+        "college": "University of the Pacific",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
         "college": "University of Vermont",
         "ED_deadline": "11/1/2026",
         "ED2_deadline": "1/15/2027",
@@ -5836,24 +5854,6 @@
         "ED_deadline": "",
         "ED2_deadline": "",
         "EA_deadline": "11/1/2026",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/15/2027"
-    },
-    {
-        "college": "University of the Highlands and Islands",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "06/01/2027"
-    },
-    {
-        "college": "University of the Pacific",
-        "ED_deadline": "",
-        "ED2_deadline": "",
-        "EA_deadline": "11/15/2026",
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "01/15/2027"
@@ -5985,6 +5985,15 @@
         "RD_deadline": "4/1/2027"
     },
     {
+        "college": "Washington and Lee University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
         "college": "Washington College",
         "ED_deadline": "11/15/2026",
         "ED2_deadline": "",
@@ -6001,15 +6010,6 @@
         "EA2_deadline": "",
         "REA_deadline": "",
         "RD_deadline": "1/4/2027"
-    },
-    {
-        "college": "Washington and Lee University",
-        "ED_deadline": "11/1/2026",
-        "ED2_deadline": "1/5/2027",
-        "EA_deadline": "",
-        "EA2_deadline": "",
-        "REA_deadline": "",
-        "RD_deadline": "01/05/2027"
     },
     {
         "college": "Waubonsee Community College",
