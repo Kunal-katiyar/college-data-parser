@@ -8,6 +8,7 @@ in order to make a catalog of the supplemental essays of most schools that requi
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 
 
 class EssayParser:
@@ -20,10 +21,13 @@ class EssayParser:
     url = "https://www.collegeessayadvisors.com/supplemental-essay-guide/"
 
     def __init__(self, file: str):
-        self.response = requests.get(url)
+        if not os.path.exists(file):
+            raise FileNotFoundError("File "+file+" not found")
+        self.filePath = file
+
+        self.response = requests.get(self.url)
         if (self.response.status_code != 200):
             raise ConnectionError("Failed to connect to " + self.url)
-        self.filePath = file
 
     def getURLs(self):
         """

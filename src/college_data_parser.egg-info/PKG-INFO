@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: college_data_parser
+Version: 1.0.0
+License-File: LICENSE
+Requires-Dist: requests>=2.28.0
+Requires-Dist: pdfplumber>=0.11.2
+Requires-Dist: beautifulsoup4>=4.12
+Dynamic: license-file

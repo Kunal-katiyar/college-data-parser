@@ -9,6 +9,7 @@ from io import BytesIO
 import pdfplumber
 import requests
 import json
+import os
 
 class DeadlineParser:
     """
@@ -18,12 +19,17 @@ class DeadlineParser:
     """
 
     url = "https://content.commonapp.org/Files/ReqGrid.pdf"
+    keys = ["college", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]
 
     def __init__(self, file: str) :
+        if not os.path.exists(file):
+            raise FileNotFoundError("File "+file+" not found")
         self.filePath = file
-        response = requests.get(url)
+        
+        response = requests.get(self.url)
         if (response.status_code != 200):
             raise ConnectionError("Failed to connect to " + self.url)
+        
         self.pdfData = BytesIO(response.content)
 
     def parseData(self):
@@ -76,10 +82,14 @@ class DeadlineParser:
             filedata.append(data)
 
         if isinstance(data, dict):
+            for item in self.keys:
+                if not item in data:
+                    data[item] = ""
+
             if (data.keys() == filedata[0].keys()):
                 filedata.append(data)
             else:
-                raise KeyError("Keys must match the defined structure: 'college', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
+                raise KeyError("Only the following keys may be present: 'college', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
 
         else:
             raise TypeError("Invalid: data must either be a list or dict")
