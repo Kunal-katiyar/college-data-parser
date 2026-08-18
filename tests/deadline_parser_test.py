@@ -5,13 +5,26 @@ def test_deadline_parser():
 
     DP.parseDeadlines() # Should populate data into deadline_parser_test.json
 
-    data = {
-        "college": "Massachusetts Institute of Technology",
+    data = [
+    {
+        "university": "Massachusetts Institute of Technology",
         "EA_deadline": "11/1/2026",
         "RD_deadline": "1/4/2027"
+    },
+    {
+        "university": "University of Texas at Austin",
+        "EA_deadline": "10/15/2026",
+        "RD_deadline": "12/1/2026"
+    },
+    {
+        "university": "Georgia Institute of Technology",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "11/2/2026",
+        "RD_deadline": "1/6/2027"
     }
+    ]
 
-    DP.addData(data) # Should add the MIT data to the JSON file
+    DP.addData(data) # Should add the college data to the JSON file
 
     
     data = {
@@ -27,10 +40,10 @@ def test_deadline_parser():
     assert message # Should become True as a KeyError was raised
 
     data = {
-        "college": "Massachusetts Institute of Technology",
+        "university": "Massachusetts Institute of Technology",
         "EA_deadline": "11/1/2026",
         "RD_deadline": "1/4/2027"
     }
 
-    DP.addData(data) # Should not add a duplicate entry
+    DP.addData(data) # Should not add a duplicate MIT entry
 

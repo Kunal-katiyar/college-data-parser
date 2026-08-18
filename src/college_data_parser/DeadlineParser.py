@@ -19,7 +19,7 @@ class DeadlineParser:
     """
 
     url = "https://content.commonapp.org/Files/ReqGrid.pdf"
-    required_keys = ["college", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]
+    required_keys = ["university", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]
 
     def __init__(self, file: str) :
         if not os.path.exists(file):
@@ -44,7 +44,7 @@ class DeadlineParser:
                 for row in table:
                     if row[3] != None and row[2] != "ED":
                         data = {
-                            "college": row[0].replace("\n", " "),
+                            "university": row[0].replace("\n", " "),
                             "ED_deadline": row[2],
                             "ED2_deadline": row[3],
                             "EA_deadline": row[4],
@@ -52,71 +52,66 @@ class DeadlineParser:
                             "REA_deadline": row[6],
                             "RD_deadline": row[7]
                         }
-                        if data["college"] != "":
+                        if data["university"] != "":
                             entries.append(data)
 
         with open(self.filePath, "w") as file:
             json.dump(entries, file, indent = 4)
 
-    def addData(self, data):
+    def addData(self, entries):
         """
         Adds custom deadline data to the json file, for instance for colleges that
         do not show up on the CommonApp grid (such as MIT).
 
-        :param data: The deadline data of the college you wish to add, either as a 
-        list or dictionary.
+        :param entries: The deadline data of the college you wish to add, either as a 
+        list of dictonaries or as one dictionary.
         """
 
         with open(self.filePath, "r") as file:
             filedata = json.load(file)
 
-        if isinstance(data, list):
-            data = {
-                "college": data[0],
-                "ED_deadline": data[1],
-                "ED2_deadline": data[2],
-                "EA_deadline": data[3],
-                "EA2_deadline": data[4],
-                "REA_deadline": data[5],
-                "RD_deadline": data[6]
-            }
+        if isinstance(entries, dict):
+            entries = [entries]
+
+        entries = sorted(entries, key=lambda x: x["university"].lower())
+
+        if isinstance(entries, list):
+            i = 0
+            j = 0
             newData = []
-            flag = True
-            for item in filedata:
-                if (item["college"] == data["college"]):
-                    newData.append(data)
-                    flag = False
-                else:
-                    newData.append(item)
-            if flag:
-                newData.append(data)
-            filedata = newData
 
-        if isinstance(data, dict):
-            for item in self.required_keys:
-                if not item in data:
-                    data[item] = ""
+            for data in entries:
+                for item in self.required_keys:
+                    if not item in data:
+                        data[item] = ""
 
-            if (data.keys() == filedata[0].keys()):
-                newData = []
-                flag = True
-                for item in filedata:
-                    if (item["college"] == data["college"]):
-                        newData.append(data)
-                        flag = False
-                    else:
-                        newData.append(item)
-                if flag:
-                    newData.append(data)
+                if (data.keys() != filedata[0].keys()):
+                    raise KeyError("Only the following keys may be present: 'university', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
+
+            newData = []
+            while i < len(filedata) and j < len(entries):
+                if (filedata[i]["university"] == entries[j]["university"]):
+                    newData.append(entries[j])
+                    j += 1
+                    i += 1
                 
-                filedata = newData
-            else:
-                raise KeyError("Only the following keys may be present: 'college', 'ED_deadline', 'ED2_deadline', 'EA_deadline', 'EA2_deadline', 'REA_deadline', 'RD_deadline'")
+                else:
+                    newData.append(filedata[i])
+                    i += 1
+            
+            while j < len(entries):
+                newData.append(entries[j])
+                j += 1
 
+            while i < len(filedata):
+                newData.append(filedata[i])
+                i += 1
+                
+            filedata = newData
         else:
             raise TypeError("Invalid: data must either be a list or dict")
 
-        filedata = sorted(filedata, key=lambda x: x["college"].lower())
+        filedata = sorted(filedata, key=lambda x: x["university"].lower())
 
         with open(self.filePath, "w") as f:
             json.dump(filedata, f, indent=4)
