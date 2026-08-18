@@ -1,0 +1,6302 @@
+[
+    {
+        "university": "Adams State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Adelphi University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Agnes Scott College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "Al Akhawayn University in Ifrane",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Alaska Bible College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Alaska Pacific University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Albany College of Pharmacy and Health Sciences",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Albertus Magnus College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "2/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "Albion College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Albizu University-Miami",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Albright College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Alfred University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/15/2027"
+    },
+    {
+        "university": "Allegheny College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Alvernia University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Alverno College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "AMDA College of the Performing Arts",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "AMDA The American Musical and Dramatic Academy",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "American University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "American University in Bulgaria",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "1/15/2027",
+        "EA2_deadline": "3/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "05/15/2027"
+    },
+    {
+        "university": "Amherst College",
+        "ED_deadline": "11/9/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Anatolia American University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/15/2027"
+    },
+    {
+        "university": "Anderson University (IN)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Andrews University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Antioch College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/2/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Arcadia University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Art Academy of Cincinnati",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "5/1/2027"
+    },
+    {
+        "university": "Ashland University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Assumption University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "4/1/2027"
+    },
+    {
+        "university": "Auburn University at Montgomery",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Augsburg University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Augustana College (Illinois)",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Augustana University (South Dakota)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Austin College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "2/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Ave Maria University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "Avila University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Babson College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Baker University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Baldwin Wallace University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Bard College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Bard College Berlin",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": ""
+    },
+    {
+        "university": "Barnard College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/1/2027"
+    },
+    {
+        "university": "Barry University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Barton College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Bates College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/10/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "Bay Path University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Baylor University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Belmont University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Beloit College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Benedict College - Columbia, SC",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/30/2027"
+    },
+    {
+        "university": "Benedictine College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "12/1/2026"
+    },
+    {
+        "university": "Benedictine University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "Bennington College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "Bentley University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Berry College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Bethany College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Bethel University-TN",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/25/2027"
+    },
+    {
+        "university": "Bishop's University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Blackburn College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Boston College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Boston University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "Bowdoin College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "Bradley University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Brandeis University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/2/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Brenau University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Brevard College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Brown University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "Bryant University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Bryn Mawr College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Bucknell University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/10/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "Bushnell University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Butler University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Caldwell University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "California Institute of Technology (Caltech)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "1/4/2027"
+    },
+    {
+        "university": "California Lutheran University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Calumet College of St. Joseph",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Calvin University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Canisius University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/25/2027"
+    },
+    {
+        "university": "Capital University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Capitol Technology University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Carl Sandburg College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Carleton College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Carnegie Mellon University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Carnegie Mellon University in Qatar",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Carolina University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/1/2027"
+    },
+    {
+        "university": "Carroll College (Montana)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/28/2027"
+    },
+    {
+        "university": "Carroll University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Carthage College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Case Western Reserve University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Catawba College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Cedar Crest College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Centenary College of Louisiana",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Centenary University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "Central Connecticut State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "Central State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Centre College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Champlain College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/09/2027"
+    },
+    {
+        "university": "Chapman University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Charles R. Drew University of Medicine and Science",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Chatham University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Cheyney University of Pennsylvania",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Chowan University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Christian Brothers University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Christopher Newport University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Claremont McKenna College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/10/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/10/2027"
+    },
+    {
+        "university": "Clark Atlanta University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "4/15/2027"
+    },
+    {
+        "university": "Clark University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Clarkson University",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Clayton State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/15/2027"
+    },
+    {
+        "university": "Cleveland State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Coe College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/10/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Colby College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Colby-Sawyer College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/28/2027"
+    },
+    {
+        "university": "Colgate University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "College of Saint Benedict",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "College of the Atlantic",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "College of the Holy Cross",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "College of Wooster",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Colorado College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Columbia College (SC)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Columbia University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Columbus College of Art & Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Concordia College at Moorhead",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Concordia University Chicago",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Concordia University Irvine",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "2/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Concordia University Wisconsin",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Connecticut College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Converse University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Cooper Union for the Advancement of Science & Art",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Coppin State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Cornell College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Cornell University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/2/2027"
+    },
+    {
+        "university": "Cottey College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Creighton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Curry College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "D'Youville University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Danville Area Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Dartmouth College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Davidson College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/11/2027"
+    },
+    {
+        "university": "Dean College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Defiance College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Delaware State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "Denison University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "DePauw University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "12/15/2026",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Dickinson College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Dillard University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Dominican University New York",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Dominican University of California",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Drake University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Drew University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Drexel University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Duke University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Earlham College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Eastern Connecticut State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Eastern Mennonite University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Eckerd College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Edgewood University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "EHL Hospitality Business School",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Elgin Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Elizabethtown College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Elmira College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Elms College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Emerson College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Emmanuel College (MA)",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Emory & Henry University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "07/13/2027"
+    },
+    {
+        "university": "Emory University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/1/2027"
+    },
+    {
+        "university": "ESCP Business School",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Fairfield University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Fayetteville State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "4/3/2027"
+    },
+    {
+        "university": "Felician University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Fisk University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "2/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "07/15/2027"
+    },
+    {
+        "university": "Flagler College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Florida Institute of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Florida Memorial University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Florida Southern College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Fordham University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/3/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/3/2027"
+    },
+    {
+        "university": "Framingham State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "6/30/2027"
+    },
+    {
+        "university": "Franklin & Marshall College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Franklin College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Franklin Switzerland",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Furman University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Gannon University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Gardner-Webb University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Generations College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "George Fox University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Georgia Institute of Technology",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "11/2/2026",
+        "RD_deadline": "1/6/2027",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "REA_deadline": ""
+    },
+    {
+        "university": "Georgia Southwestern State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/03/2027"
+    },
+    {
+        "university": "Georgia State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Georgian Court University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Gettysburg College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/20/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Goldey-Beacom College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Gonzaga University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Goucher College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Grinnell College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Guilford College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/10/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Gustavus Adolphus College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Hamilton College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Hamline University (MN)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Hampden-Sydney College",
+        "ED_deadline": "10/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/2/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Hanover College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Hartwick College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Harvard University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "1/1/2027"
+    },
+    {
+        "university": "Harvey Mudd College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Hastings College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Haverford College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "Hawaii Pacific University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Hellenic College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Hendrix College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Heritage University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "High Point University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Highland Community College (IL)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Hilbert College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Hillsdale College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/15/2027"
+    },
+    {
+        "university": "Hobart and William Smith Colleges",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Hofstra University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Hollins University",
+        "ED_deadline": "10/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Holy Apostles College & Seminary",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Holy Cross College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Hood College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Hope College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Houghton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Howard University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Hult International Business School \u2013 U.S, U.K, Dubai",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/1/2026"
+    },
+    {
+        "university": "Husson University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "ICN Business School",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "IE University - Madrid Campus and Segovia Campus",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Illinois Central College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Illinois College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Illinois Eastern Community Colleges",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Illinois Institute of Technology",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Illinois Wesleyan University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Immaculata University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Indiana University Bloomington - Flagship Campus",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Indiana University Columbus",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Indiana University Kokomo",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Indiana University South Bend",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Indiana University Southeast",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Iona University",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Ithaca College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Jack Kent Cooke Foundation",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/11/2026"
+    },
+    {
+        "university": "Jacksonville University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "John Cabot University in Rome",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Johns Hopkins University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/2/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/02/2027"
+    },
+    {
+        "university": "Johnson & Wales University-Charlotte",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/3/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Johnson & Wales University-Providence",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/3/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Joliet Junior College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Juniata College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "3/15/2027"
+    },
+    {
+        "university": "Kalamazoo College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Kaskaskia College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Kean University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "1/1/2027",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Keiser University Flagship Campus - West Palm Beach Florida",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Kentucky College of Art + Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Kentucky State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Kenyon College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Kettering University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Keuka College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Keystone College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Kishwaukee College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Knox College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "La Roche University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "La Salle University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lafayette College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Laguna College of Art + Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lake Erie College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/20/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lake Forest College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Lasell University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lawrence Technological University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lawrence University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Le Moyne College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lebanese American University - LAU",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/15/2027"
+    },
+    {
+        "university": "Lebanon Valley College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lehigh University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "LeMoyne-Owen College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "Lesley University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lewis & Clark College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Lincoln Land Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lincoln Memorial University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Linfield University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/10/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "List College The Jewish Theological Seminary",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/3/2027",
+        "EA_deadline": "1/3/2027",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Livingstone College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Long Island University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Loyola Marymount University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/8/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Loyola University Maryland",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Loyola University New Orleans",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "LSU New Orleans",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lycoming College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Lynn University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Lyon College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "5/1/2027"
+    },
+    {
+        "university": "Macalester College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Maine College of Art & Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Maine Maritime Academy",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/30/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "Malone University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Manchester University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Manhattan University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Manhattanville University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/17/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Manor College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/30/2027"
+    },
+    {
+        "university": "Marietta College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Marist University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Marquette University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Marshall University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Mary Immaculate College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Maryland Institute College of Art",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Massachusetts College of Art and Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Massachusetts College of Liberal Arts",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Massachusetts Institute of Technology",
+        "EA_deadline": "11/1/2026",
+        "RD_deadline": "1/4/2027",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": ""
+    },
+    {
+        "university": "McDaniel College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Menlo College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/30/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "Mercer University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Mercy University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Meredith College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/30/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/01/2027"
+    },
+    {
+        "university": "Merrimack College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Metropolitan State University of Denver (MSU Denver)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Miami Dade College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Middlebury College",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Millersville University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Millikin University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Millsaps College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "Minerva University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "Mississippi Valley State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Missouri Southern State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Missouri University of Science and Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Mitchell College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Monmouth College (IL)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Monmouth University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Montserrat College of Art",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Moore College of Art and Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Moraine Valley Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Moravian University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "Morehouse College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Morgan State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Mount Holyoke College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Mount Mary University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Mount Saint Mary's University Los Angeles",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Muhlenberg College",
+        "ED_deadline": "11/16/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Muskingum University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Naropa University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Nazareth University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Nebraska Wesleyan University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Neumann University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "New College of Florida",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "New England Institute of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "New Jersey Institute of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "New Mexico State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "New York Institute of Technology (NYIT)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "New York School of Carrer and Applied Studies of Touro University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/24/2027"
+    },
+    {
+        "university": "New York University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Newberry College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Niagara University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Nichols College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "North American University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/28/2027"
+    },
+    {
+        "university": "North Carolina State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "North Central University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "North Park University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Northeastern University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Northwest Nazarene University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Northwestern University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Northwestern University in Qatar",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Norwich University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Notre Dame of Maryland University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Nova Southeastern University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Oberlin College of Arts and Sciences",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Oberlin Conservatory of Music",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "12/1/2026"
+    },
+    {
+        "university": "Occidental College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/10/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/10/2027"
+    },
+    {
+        "university": "Oglethorpe University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/01/2027"
+    },
+    {
+        "university": "Ohio Northern University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ohio University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ohio Wesleyan University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Oklahoma City University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Old Dominion University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Otis College of Art and Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/5/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Otterbein University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Pace University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Pacific Lutheran University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Pacific University Oregon",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Paine College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Park University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Paul Smith's College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/16/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/11/2027"
+    },
+    {
+        "university": "Pennsylvania College of Art & Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Piedmont University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/17/2027"
+    },
+    {
+        "university": "Pitzer College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/10/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "Plymouth State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Point Park University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Pomona College",
+        "ED_deadline": "11/8/2026",
+        "ED2_deadline": "1/8/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/08/2027"
+    },
+    {
+        "university": "Prairie State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Presbyterian College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Prescott College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Princeton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Principia College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Providence College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Purdue University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Purdue University Fort Wayne",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Queen's University, Canada",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Queens University of Charlotte",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/14/2027"
+    },
+    {
+        "university": "Quinnipiac University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Ramapo College of New Jersey",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Randolph College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Randolph-Macon College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "10/18/2026",
+        "EA2_deadline": "12/10/2026",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "Reed College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Regis College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Regis University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Reinhardt University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Rend Lake College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Rensselaer Polytechnic Institute",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/6/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Rhode Island College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Rhode Island School of Design",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/20/2027"
+    },
+    {
+        "university": "Rhodes College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Rice University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Rider University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ringling College of Art and Design",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ripon College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Robert Morris University (PA)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Rochester Institute of Technology",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Rock Valley College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Roger Williams University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Rollins College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Rose-Hulman Institute of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Russell Sage College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Sacred Heart University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "2/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "7/26/2027"
+    },
+    {
+        "university": "Saint Anselm College",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Saint Elizabeth University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Francis University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint John's University (MN)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Saint Joseph's College of Maine",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Joseph's University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Saint Louis University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/28/2027"
+    },
+    {
+        "university": "Saint Louis University- Madrid",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Martin's University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Mary's College of California",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Saint Mary's College, Notre Dame, Indiana",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Saint Mary's University of Minnesota",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Mary-of-the- Woods College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Michael's College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Peter's University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Saint Vincent College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Salem College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Salve Regina University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/5/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Samford University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Santa Clara University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/7/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/7/2027"
+    },
+    {
+        "university": "Sarah Lawrence College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Savannah College of Art and Design",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "School of the Art Institute of Chicago",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "School of Visual Arts",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/14/2027"
+    },
+    {
+        "university": "Scripps College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/8/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/08/2027"
+    },
+    {
+        "university": "Seattle Pacific University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Seattle University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Seton Hall University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Sewanee: The University of the South",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Shanghai Jiao Tong University Global College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Shippensburg University of Pennsylvania",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Siena University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "Siena University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Siena University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/01/2026"
+    },
+    {
+        "university": "Simmons University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Simon's Rock at Bard College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "4/1/2027"
+    },
+    {
+        "university": "Simpson College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Skidmore College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/8/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/08/2027"
+    },
+    {
+        "university": "Smith College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "South Carolina State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Southeastern Illinois College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Southern California Institute of Architecture",
+        "ED_deadline": "1/15/2027",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Southern Connecticut State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Southern Methodist University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Southwestern University",
+        "ED_deadline": "11/3/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/02/2027"
+    },
+    {
+        "university": "Spelman College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "Spring Arbor University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Spring Hill College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Springfield College",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Ambrose University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Bonaventure University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. John's College (MD)",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "St. John's College (NM)",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "St. John's University (NY)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "St. Joseph's University, New York - Brooklyn Campus",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Joseph\u2019s University, New York - Long Island Campus",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Lawrence University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "St. Mary's College of Maryland",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "St. Norbert College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Olaf College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "St. Thomas Aquinas College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Thomas University (FL)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "St. Thomas University, Canada",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Stanford University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Stephens College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Stetson University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Stevens Institute of Technology",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Stevenson University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Stockton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Stonehill College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Suffolk University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "SUNY Alfred State College of Technology",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Binghamton University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "SUNY Cobleskill",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY College at Brockport",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY College at Geneseo",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "SUNY College at Old Westbury",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY College of Environmental Science & Forestry",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "SUNY College of Technology at Canton",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Cortland",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Delhi",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Farmingdale State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Fredonia",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Morrisville State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY New Paltz",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Oneonta",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "SUNY Oswego",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Plattsburgh",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Polytechnic Institute",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Potsdam",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Purchase",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "SUNY Stony Brook University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "SUNY, University at Albany",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Swarthmore College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/4/2027"
+    },
+    {
+        "university": "Sweet Briar College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Syracuse University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Taejae University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/31/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "Talladega College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/19/2027",
+        "REA_deadline": "",
+        "RD_deadline": "07/29/2027"
+    },
+    {
+        "university": "Temple University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Texas A&M University - San Antonio",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/29/2027"
+    },
+    {
+        "university": "Texas A&M University- Corpus Christi",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/01/2027"
+    },
+    {
+        "university": "Texas Christian University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Texas Lutheran University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/27/2027"
+    },
+    {
+        "university": "The American University in Cairo",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "2/1/2027",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/01/2027"
+    },
+    {
+        "university": "The American University of Paris",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "2/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/15/2027"
+    },
+    {
+        "university": "The American University of Rome",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "The Catholic University of America",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "The College of Idaho",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "The College of New Jersey",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "The College of St. Scholastica",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "The Culinary Institute of America",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/31/2026",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "The George Washington University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "The Master's University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "The New School",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "The University of Arizona",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/15/2027"
+    },
+    {
+        "university": "The University of Hong Kong",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/26/2026"
+    },
+    {
+        "university": "The University of Scranton",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "The University of Tennessee Knoxville",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "The University of Tulsa",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "The University of Virginia's College at Wise",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Thiel College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Thomas College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Tiffin University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Towson University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Transylvania University",
+        "ED_deadline": "10/31/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "10/31/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "07/28/2027"
+    },
+    {
+        "university": "Trinity College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Trinity College of Jacksonville",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Trinity University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Trinity Washington University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Truman State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Tufts University",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "Tulane University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/10/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Tuskegee University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "UCAM Universidad Cat\u00f3lica de Murcia",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ulster University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "UMBC: University of Maryland, Baltimore County",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Underwood International College, Yonsei University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/03/2027"
+    },
+    {
+        "university": "Union College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Universidad Carlos III de Madrid",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Universidad del Sagrado Corazon",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Universidad Privada Boliviana",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/29/2027"
+    },
+    {
+        "university": "University College Dublin",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Aberdeen",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Akron",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Alabama at Birmingham (UAB)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Bradford",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Bridgeport",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "2/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Chicago",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "11/2/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "University of Connecticut",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Dallas",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "University of Dayton",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "University of Delaware",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Denver",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Detroit Mercy",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Dundee",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of East London",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Evansville",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Glasgow",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Guelph",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "University of Hartford",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Houston",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/31/2027"
+    },
+    {
+        "university": "University of Idaho",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Illinois Chicago",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/2/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "University of Illinois Urbana-Champaign",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "University of Indianapolis",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of La Verne",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Limerick",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Lynchburg",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Maine",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Maine at Augusta",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Maine at Farmington",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Maine at Fort Kent",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Maine at Presque Isle",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Mary Washington",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "University of Massachusetts Amherst",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/5/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Massachusetts Boston",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/1/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "University of Massachusetts Dartmouth",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Massachusetts Lowell",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/5/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "University of Miami",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "University of Michigan",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "University of Minnesota Duluth",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Minnesota Morris",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Minnesota Rochester",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Minnesota Twin Cities",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "University of Missouri",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Missouri-St Louis",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Mount Saint Vincent",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Nebraska- Lincoln",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of New England",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "University of New Hampshire",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "University of New Haven",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "2/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "07/26/2027"
+    },
+    {
+        "university": "University of North Carolina Asheville",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/1/2027"
+    },
+    {
+        "university": "University of North Carolina at Chapel Hill",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of North Carolina Greensboro",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "3/1/2027"
+    },
+    {
+        "university": "University of North Texas",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of North Texas at Dallas",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Northern Colorado",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "University of Northern Iowa",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Notre Dame",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "01/04/2027"
+    },
+    {
+        "university": "University of Pennsylvania",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "University of Plymouth",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Portland",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "University of Providence (Montana)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Puget Sound",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Redlands",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Rhode Island",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "University of Richmond",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "University of Rochester",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "University of Roehampton, London",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Saint Francis-Fort Wayne Indiana",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Saint Joseph",
+        "ED_deadline": "10/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "7/26/2027"
+    },
+    {
+        "university": "University of San Diego",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of San Francisco",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of South Carolina Upstate",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Southern California",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/10/2027"
+    },
+    {
+        "university": "University of Southern Maine",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Southern Mississippi",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of St. Thomas (MN)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "University of Stirling",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Strathclyde",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Tampa",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "University of Texas at Austin",
+        "EA_deadline": "10/15/2026",
+        "RD_deadline": "12/1/2026",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": ""
+    },
+    {
+        "university": "University of the Highlands and Islands",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/01/2027"
+    },
+    {
+        "university": "University of the Pacific",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "University of Vermont",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "University of Virginia",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "University of Washington",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/15/2026"
+    },
+    {
+        "university": "University of Washington Bothell",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "University of Washington Tacoma",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "05/31/2027"
+    },
+    {
+        "university": "University of West London",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "University of Wisconsin- Madison",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Upper Iowa University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Ursinus College",
+        "ED_deadline": "12/1/2026",
+        "ED2_deadline": "2/1/2027",
+        "EA_deadline": "11/10/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "04/01/2027"
+    },
+    {
+        "university": "Utica University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "12/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Valparaiso University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Vanderbilt University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/1/2027"
+    },
+    {
+        "university": "Vassar College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Vermont State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Villanova University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Vincennes University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Wabash College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Wagner College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Wake Forest University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "Warren Wilson College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Washington & Jefferson College",
+        "ED_deadline": "12/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "4/1/2027"
+    },
+    {
+        "university": "Washington and Lee University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/05/2027"
+    },
+    {
+        "university": "Washington College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "2/15/2027"
+    },
+    {
+        "university": "Washington University in St. Louis",
+        "ED_deadline": "11/2/2026",
+        "ED2_deadline": "1/4/2027",
+        "EA_deadline": "11/2/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/4/2027"
+    },
+    {
+        "university": "Waubonsee Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Webster University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Wellesley College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/08/2027"
+    },
+    {
+        "university": "Wesleyan University",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/1/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/01/2027"
+    },
+    {
+        "university": "West Virginia State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "West Virginia Wesleyan College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Western Colorado University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Western Connecticut State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Western Michigan University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Western New England University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "2/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Westminster College (Missouri)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Westminster College (Pennsylvania)",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Westminster University (Utah)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Westmont College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "11/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Wheaton College (IL)",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "11/15/2026",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Wheaton College, Massachusetts",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/15/2027"
+    },
+    {
+        "university": "Whitman College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Whittier College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Whitworth University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "1/15/2027",
+        "REA_deadline": "",
+        "RD_deadline": "03/01/2027"
+    },
+    {
+        "university": "Wilberforce University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Willamette University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "William & Mary",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "William Paterson University of NJ",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "William Peace University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Williams College",
+        "ED_deadline": "11/15/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "1/5/2027"
+    },
+    {
+        "university": "Winston-Salem State University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "06/28/2027"
+    },
+    {
+        "university": "Wittenberg University",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "12/1/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Wofford College",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/15/2027",
+        "EA_deadline": "11/15/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/15/2027"
+    },
+    {
+        "university": "Woodbury University \u2013 now University of Redlands, Los Angeles",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "12/1/2026",
+        "REA_deadline": "",
+        "RD_deadline": "1/15/2027"
+    },
+    {
+        "university": "Worcester Polytechnic Institute",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "1/5/2027",
+        "EA_deadline": "11/1/2026",
+        "EA2_deadline": "1/5/2027",
+        "REA_deadline": "",
+        "RD_deadline": "02/01/2027"
+    },
+    {
+        "university": "Yale University",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "11/1/2026",
+        "RD_deadline": "01/02/2027"
+    },
+    {
+        "university": "York College of Pennsylvania",
+        "ED_deadline": "11/1/2026",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "York County Community College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "1/1/2027",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Zane State College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "Rolling"
+    },
+    {
+        "university": "Zaytuna College",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "10/31/2026",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "01/31/2027"
+    }
+]
