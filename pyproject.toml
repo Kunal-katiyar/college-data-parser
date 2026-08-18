@@ -1,3 +1,8 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
 [project]
 name = "college_data_parser"
 version = "1.0.0"
@@ -6,3 +11,9 @@ dependencies = [
     "pdfplumber>=0.11.2",
     "beautifulsoup4 >= 4.12",
 ]
+description = "Parses publicly-available college data to find essays and deadlines"
+requires-python = ">=3.8"
+authors = [
+    { name="Kunal Katiyar", email="kunal.katiyar77@gmail.com" },
+]
+readme = "README.md"

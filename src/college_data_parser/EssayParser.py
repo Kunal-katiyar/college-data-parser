@@ -38,37 +38,46 @@ class EssayParser:
         if (self.response.status_code != 200):
             raise ConnectionError("Failed to connect to " + self.url)
 
-    def getURLs(self):
+    @staticmethod
+    def getURLs():
         """
         Returns a list of all links found in the main essay guide.
         """
 
-        page = BeautifulSoup(self.response.text, 'html.parser')
+        response = requests.get("https://www.collegeessayadvisors.com/supplemental-essay-guide/")
+
+        if (response.status_code != 200):
+            raise ConnectionError("Failed to connect to " + url)
+        
+        page = BeautifulSoup(response.text, 'html.parser')
         linkcontainer = page.find('div', class_='row results-grid')
+
         return [link.get('href') for link in linkcontainer.find_all('a')]
 
-    def getAccessibleURLs(self):
+    @staticmethod
+    def getAccessibleURLs():
         """
         Returns a list of all links found in the main essay guide that
         CAN be parsed and contain relevant information.
         """
 
         results = []
-        for link in self.getURLs():
+        for link in EssayParser.getURLs():
             inner = BeautifulSoup(requests.get(link).text, 'html.parser')
             if inner.title.text != "403 Forbidden" and inner.find('div', class_='guide-content') is not None:
                 results.append(link)
 
         return results
 
-    def getInaccessibleURLs(self):
+    @staticmethod
+    def getInaccessibleURLs():
         """
         Returns a list of all links found in the main essay guide that
         CANNOT be parsed or contain irrelevant information.
         """
 
         results = []
-        for link in self.getURLs():
+        for link in EssayParser.getURLs():
             inner = BeautifulSoup(requests.get(link).text, 'html.parser')
 
             if inner.title.text == "403 Forbidden" or inner.find('div', class_='guide-content') is None:

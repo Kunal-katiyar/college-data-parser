@@ -34,7 +34,7 @@ def test_essay_parser():
     }
     message = False
     try:
-        EP.add(data)
+        EP.addData(data)
     except KeyError:
         message = True
 
