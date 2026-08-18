@@ -1,9 +1,9 @@
 from college_data_parser.DeadlineParser import DeadlineParser
 
-def test_file_input():
+def test_deadline_parser():
     DP = DeadlineParser("tests/deadline_parser_test.json")
 
-    DP.parseData() # Should populate data into deadline_parser_test.json
+    DP.parseDeadlines() # Should populate data into deadline_parser_test.json
 
     data = {
         "college": "Massachusetts Institute of Technology",
@@ -15,16 +15,16 @@ def test_file_input():
 
     
     data = {
-        "random_key": "Random"
+        "random_key": "Random" # Adding invalid data to the JSON
     }
 
-    message = ""
+    message = False
     try:
         DP.addData(data)
     except KeyError:
-        message = "worked"
+        message = True
 
-    assert message == "worked" # Should become "worked" as a KeyError was raised
+    assert message # Should become True as a KeyError was raised
 
     data = {
         "college": "Massachusetts Institute of Technology",
@@ -33,3 +33,4 @@ def test_file_input():
     }
 
     DP.addData(data) # Should not add a duplicate entry
+

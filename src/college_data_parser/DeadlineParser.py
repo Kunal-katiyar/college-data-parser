@@ -32,7 +32,7 @@ class DeadlineParser:
         
         self.pdfData = BytesIO(response.content)
 
-    def parseData(self):
+    def parseDeadlines(self):
         """
         Parses the file and replaces the entered file's JSON data with that data.
         """
@@ -52,7 +52,8 @@ class DeadlineParser:
                             "REA_deadline": row[6],
                             "RD_deadline": row[7]
                         }
-                        entries.append(data)
+                        if data["college"] != "":
+                            entries.append(data)
 
         with open(self.filePath, "w") as file:
             json.dump(entries, file, indent = 4)
