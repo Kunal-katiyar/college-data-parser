@@ -20,7 +20,7 @@ and contains the deadlines of around **700 colleges**.
 - **Comprehensive Data**: The `deadline_data.json` contains all standard deadlines for each university (ED, ED2, EA, EA2, REA, and RD). `essay_data.json` has the link of the CollegeEssayAdvisors supplemental essay guide, as well as the college within the university the essay is assigned to, if any.
 - **Manually Checked**: The database has been manually checked and reviewed both with the `CollegeAppParser` class methods and meticulously by hand. (But if anything seems off, you can always make a pull request to change something!)
 
-# Installation Instructions
+# 💻 Installation Instructions
 
 Simply run
 ```bash
@@ -34,14 +34,13 @@ from CollegeAppParser import DeadlineParser, EssayParser
 ```
 or whichever of the two packages you need.
 
-# Public Database
+# 🌐 Public Database
 Anyone is allowed to use the public JSON files located in the `public_data` folder. If you end up using this
 in a project, consider starring the repository. It takes a lot of time and effort to manually review the data, 
-so I'd appreciate the support!
+so I'd really appreciate the support!
 
-# Package Documentation
+# 📝 Documentation
 ## EssayParser.py
-
 
 <details>
 <summary><b><code>EssayParser.__init__(file)</code></b></summary>  
@@ -301,6 +300,44 @@ data = [
 DP.addData(data) # Will add that custom data to the JSON, sorted alphabetically
 ```
 </details>
+
+## Public Database Documentation
+
+**These structures are the same that `EssayParser.parseEssays()` and `DeadlineParser.parseDeadlines()` create.**
+
+<details>
+<summary><b><code>essay_data.json</code></b></summary>
+
+<br>
+
+| Key | Type | Description |
+| :--- | :--- | :--- |
+| `link` | `str` | The link to the CollegeEssayAdvisors article for the essay/university. |
+| `university` | `str` | The university that the essay belongs to. |
+| `essay` | `str` | The actual content of the essay. |
+| `college` | `str` | The college within the university that the essay belongs to (usually `"General"` with the exception of a few colleges. |
+| `optional` | `bool` | Whether the essay is optional or not (may not be accurate 100% of the time). |
+| `needs_review` | `bool` | Whether the entry needs review (will be `false` for all public database entries). |
+
+</details>
+
+<details>
+<summary><b><code>deadline_data.json</code></b></summary>
+
+<br>
+
+| Key | Type | Description |
+| :--- | :--- | :--- |
+| `university` | `str` | The university that these deadlines belong to. |
+| `ED_deadline` | `str` | The ED deadline of the university (`""` if N/A). |
+| `ED2_deadline` | `str` | The ED2 deadline of the university (`""` if N/A). |
+| `EA_deadline` | `str` | The EA deadline of the university (`""` if N/A). |
+| `EA2_deadline` | `str` | The EA2 deadline of the university (`""` if N/A). |
+| `REA_deadline` | `str` | The REA deadline of the university (`""` if N/A). |
+| `RD_deadline` | `str` | The RD deadline of the university (`""` if N/A, `"Rolling"` if rolling). |
+
+</details>
+
 
 ## 📄 License
 Distributed under the terms of the MIT License. Check out the `LICENSE` file for more concrete legal information.
