@@ -195,21 +195,21 @@ class EssayParser:
         with open(self.filePath, 'w') as file:
             json.dump(data, file, indent=4)
 
-    def addData(self, new_data):
+    def addData(self, entries):
         """
         Used for manually adding data to the JSON file, if any colleges with essays are not included or 
         essays have wrongly been omitted.
         """
 
-        if isinstance(new_data, dict):
-            new_data = [new_data]
+        if isinstance(entries, dict):
+            entries = [entries]
 
         with open(self.filePath, "r") as file:
             data = json.load(file)
 
-        new_data = sorted(new_data, key=lambda x: x["university"].lower())
+        entries = sorted(entries, key=lambda x: x["university"].lower())
 
-        for entry in new_data:
+        for entry in entries:
             if "university" not in entry:
                 raise KeyError("The 'university' key must be present in all entry values")
             
@@ -223,15 +223,15 @@ class EssayParser:
         i = 0
         j = 0
 
-        while i < len(data) and j < len(new_data):
-            if data[i]["university"] <= new_data[j]["university"]:
+        while i < len(data) and j < len(entries):
+            if data[i]["university"] <= entries[j]["university"]:
                 i += 1
             else:
-                data.insert(i, new_data[j])
+                data.insert(i, entries[j])
                 j += 1
 
-        while j < len(new_data):
-            data.append(new_data[j])
+        while j < len(entries):
+            data.append(entries[j])
             j += 1
 
         with open(self.filePath, 'w') as file:
