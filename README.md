@@ -41,10 +41,12 @@ so I'd appreciate the support!
 
 # Package Documentation
 ## EssayParser.py
-<details>
-<summary><b><code>EssayParser.__init__()</code></b></summary>
 
-### `EssayParser.__init__()`
+
+<details>
+<summary><b><code>EssayParser.__init__(file)</code></b></summary>  
+<br>
+
 | Parameter | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
 | `file` | `str` | *Required* | The JSON file that the instance will write to and read from. |
@@ -65,7 +67,7 @@ EP = EssayParser('path/to/your_file.json')
 <details>
 <summary><b><code>EssayParser.getURLs()</code></b></summary>
 
-### `EssayParser.getURLs()`
+<br>
 
 **No Parameters**  
 *This is a static method.*
@@ -88,7 +90,7 @@ print(EssayParser.getURLs())
 <details>
 <summary><b><code>EssayParser.getAccessibleURLs()</code></b></summary>
 
-### `EssayParser.getAccessibleURLs()`
+<br>
 
 **No Parameters**  
 *This is a static method.*
@@ -111,7 +113,7 @@ print(EssayParser.getAccessibleURLs())
 <details>
 <summary><b><code>EssayParser.getInaccessibleURLs()</code></b></summary>
 
-### `EssayParser.getInaccessibleURLs()`
+<br>
 
 **No Parameters**  
 *This is a static method.*
@@ -131,6 +133,174 @@ print(EssayParser.getInaccessibleURLs())
 ```
 </details>
 
+<details>
+<summary><b><code>EssayParser.parseEssays()</code></b></summary>
+
+<br>
+
+**No Parameters**  
+
+**Functionality:**
+* Populates `file` with the full parsed essay data.
+
+**Returns:**
+* The number of essay entries that need manual review.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Create a new EssayParser object
+EP = EssayParser('path/to/your_file.json')
+print(EP.parseEssays()) # Prints out the number of entries that need review, usually ~100
+```
+</details>
+
+<details>
+<summary><b><code>EssayParser.review()</code></b></summary>
+
+<br>
+
+**No Parameters**  
+
+**Functionality:**
+* Manually queries the user about each entry in `file` marked as `'needs_review'`.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Create a new EssayParser object
+EP = EssayParser('path/to/your_file.json')
+EP.parseEssays()
+EP.review() # Sends inputs to the terminal for each flagged entry
+```
+</details>
+
+<details>
+<summary><b><code>EssayParser.addData(entries)</code></b></summary>
+
+<br>
+
+| Parameter | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `entries` | `dict` or `list` | *Required* | The data that will be added to the JSON file, as a single `dict` or as a list of them |
+
+**Raises:**
+* `KeyError`: If any of the manual entries contain a key not within the set `["link", "university", "essay", "college", "optional", "needs_review"]`
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Create a new EssayParser object
+EP = EssayParser('path/to/your_file.json')
+EP.parseEssays()
+
+data = [
+{
+    "university": "AAAAA Test University",
+    "essay": "Test Essay"
+},
+{
+    "university": "AAAAB Test University",
+    "essay": "Test Essay"
+},
+{
+    "university": "ZZZZZ Test University",
+    "essay": "Test Essay"
+}
+]
+
+EP.addData(data) # Will add that custom data to the JSON, sorted alphabetically
+```
+</details>
+
+## DeadlineParser.py
+<details>
+<summary><b><code>DeadlineParser.__init__(file)</code></b></summary>
+
+<br>
+
+| Parameter | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `file` | `str` | *Required* | The JSON file that the instance will write to and read from. |
+
+**Raises:**
+* `FileNotFoundError`: If `file` is not a valid file path in your project.
+* `ConnectionError`: If the method fails to connect to the website for parsing.
+
+**Example:**
+```python
+from CollegeAppParser import DeadlineParser
+
+# Initialize a DeadlineParser object
+DP = DeadlineParser('path/to/your_file.json')
+```
+</details>
+
+<details>
+<summary><b><code>DeadlineParser.parseDeadlines()</code></b></summary>
+
+<br>
+
+**No Parameters**  
+
+**Functionality:**
+* Populates `file` with the full parsed deadline data.
+
+**Example:**
+```python
+from CollegeAppParser import DeadlineParser
+
+# Create a new DeadlineParser object
+DP = DeadlineParser('path/to/your_file.json')
+DP.parseDeadlines() # Populates the JSON file
+```
+</details>
+
+<details>
+<summary><b><code>DeadlineParser.addData(entries)</code></b></summary>
+
+<br>
+
+| Parameter | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `entries` | `dict` or `list` | *Required* | The data that will be added to the JSON file, as a single `dict` or as a list of them |
+
+**Raises:**
+* `KeyError`: If any of the manual entries contain a key not within the set `["university", "ED_deadline", "ED2_deadline", "EA_deadline", "EA2_deadline", "REA_deadline", "RD_deadline"]`
+
+**Example:**
+```python
+from CollegeAppParser import DeadlineParser
+
+# Create a new DeadlineParser object
+DP = DeadlineParser('path/to/your_file.json')
+DP.parseDeadlines()
+
+data = [
+    {
+        "university": "Massachusetts Institute of Technology",
+        "EA_deadline": "11/1/2026",
+        "RD_deadline": "1/4/2027"
+    },
+    {
+        "university": "University of Texas at Austin",
+        "EA_deadline": "10/15/2026",
+        "RD_deadline": "12/1/2026"
+    },
+    {
+        "university": "Georgia Institute of Technology",
+        "EA_deadline": "10/15/2026",
+        "EA2_deadline": "11/2/2026",
+        "RD_deadline": "1/6/2027"
+    }
+]
+
+DP.addData(data) # Will add that custom data to the JSON, sorted alphabetically
+```
+</details>
 
 ## 📄 License
 Distributed under the terms of the MIT License. Check out the `LICENSE` file for more concrete legal information.
