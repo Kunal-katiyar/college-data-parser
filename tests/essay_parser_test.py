@@ -1,4 +1,4 @@
-from college_data_parser.EssayParser import EssayParser
+from CollegeAppParser.EssayParser import EssayParser
 import json
 
 def test_essay_parser():

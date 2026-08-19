@@ -1,4 +1,4 @@
-from college_data_parser.DeadlineParser import DeadlineParser
+from CollegeAppParser.DeadlineParser import DeadlineParser
 
 def test_deadline_parser():
     DP = DeadlineParser("tests/deadline_parser_test.json")
