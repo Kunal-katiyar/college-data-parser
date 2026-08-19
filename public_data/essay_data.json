@@ -891,7 +891,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "What interests you about the major you selected? Tell us about experiences (both in and outside of the classroom), questions, and goals that influenced your choice. (350-word limit)",
-        "college": "General",
+        "college": "College of Agriculture and Life Sciences",
         "optional": false,
         "needs_review": false
     },
@@ -899,7 +899,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "What draws you to Cornell\u2019s College of Agriculture and Life Sciences (CALS)? Reflect on the learning, community, or impact opportunities that matter most to you, and share how they align with Cornell CALS as you currently understand it. (350-word limit)",
-        "college": "General",
+        "college": "College of Agriculture and Life Sciences",
         "optional": false,
         "needs_review": false
     },
@@ -907,31 +907,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "How do your interests directly connect with your intended major at the College of Architecture, Art and Planning (AAP)?",
-        "college": "General",
-        "optional": false,
-        "needs_review": false
-    },
-    {
-        "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
-        "university": "Cornell University",
-        "essay": "B.Arch applicants, please provide an example of how a creative project or passion sparks your motivation to pursue a 5-year professional degree program. (650 words max)",
-        "college": "General",
-        "optional": false,
-        "needs_review": false
-    },
-    {
-        "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
-        "university": "Cornell University",
-        "essay": "BFA applicants, you may want to consider how you could integrate a range of interests and available resources at Cornell into a coherent art practice.",
-        "college": "General",
-        "optional": false,
-        "needs_review": false
-    },
-    {
-        "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
-        "university": "Cornell University",
-        "essay": "URS students, you may want to emphasize your enthusiasm and depth of interest in the study of urban and regional issues.",
-        "college": "General",
+        "college": "College of Architecture, Art, and Planning",
         "optional": false,
         "needs_review": false
     },
@@ -939,7 +915,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "At the College of Arts & Sciences, your education is yours to shape. Describe an intellectual passion, question, or idea that has captured your attention \u2013 whether it emerges from your studies or extends beyond your coursework. What specific aspects of our liberal arts curriculum would you draw on to explore and connect your varied interests? (650 word limit)",
-        "college": "General",
+        "college": "College of Arts & Sciences",
         "optional": false,
         "needs_review": false
     },
@@ -947,7 +923,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Discuss your interest in pursuing a major in policy at the Cornell Jeb E. Brooks School of Public Policy and what draws you to this field of study. You are encouraged to consider including details related to your personal experiences, values, academic influences, or extracurricular activities that have shaped your perspective and future goals. (650 word limit).",
-        "college": "General",
+        "college": "Jeb E. Brooks School of Public Policy",
         "optional": false,
         "needs_review": false
     },
@@ -955,7 +931,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "What kind of business student are you? Using your personal, academic, or volunteer/work experiences, describe the topics or issues that you care about and why they are important to you. Your response should convey how your interests align with the school to which you are applying within the Cornell SC Johnson College of Business (the Charles H. Dyson School of Applied Economics and Management or the Cornell Peter and Stephanie Nolan School of Hotel Administration). (650 word limit)",
-        "college": "General",
+        "college": "SC Johnson College of Business",
         "optional": false,
         "needs_review": false
     },
@@ -963,7 +939,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 1: Fundamentally, engineering is the application of math, science, and technology to solve complex problems. Why do you want to study engineering? (200 Words)",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -971,7 +947,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 2: Why do you think you would love to study at Cornell Engineering? (200 words)",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -979,7 +955,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 1: What brings you joy?",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -987,7 +963,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 2: What do you believe you will contribute to the Cornell Engineering community beyond what you\u2019ve already detailed in your application? What unique voice will you bring?",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -995,7 +971,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 3: What is one activity, club, team, organization, work/volunteer experience or family responsibility that is especially meaningful to you? Please briefly tell us about its significance for you.",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -1003,7 +979,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Question 4: What is one award you have received or achievement you have attained that has meant the most to you? Please briefly describe its importance to you.",
-        "college": "General",
+        "college": "David A. Duffield College of Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -1011,7 +987,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Think about an extracurricular/community engagement/work experience that most closely connects you to the CHE mission and your intended choice of major. Tell us what that experience taught you about your broader community and its needs, and the impact you can make. How will your intended CHE major help you make that impact? (Refer to our essay application tips as you write your essay.) (550 word limit)",
-        "college": "General",
+        "college": "College of Human Ecology",
         "optional": false,
         "needs_review": false
     },
@@ -1019,7 +995,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/cornell-university-supplemental-essay-prompt-guide/",
         "university": "Cornell University",
         "essay": "Using your personal, academic, or volunteer/work experiences, describe the topics or issues that you care about and why they are important to you. Your response should show us that your interests align with the ILR School. (650 word limit)",
-        "college": "General",
+        "college": "School of Industrial and Labor Relations",
         "optional": false,
         "needs_review": false
     },
@@ -1235,6 +1211,46 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/emerson-college-supplemental-essay-prompt-guide/",
         "university": "Emerson College",
         "essay": "We often use metaphors to help us understand our world and persuade others. Write about a metaphor that you think is powerful, and explore its potential to be helpful and/or harmful in your thinking. (400-600 words)",
+        "college": "General",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/emory-university-supplemental-essay-guide/",
+        "university": "Emory University",
+        "essay": "What academic areas are you interested in exploring at Emory University and why? (200 max)",
+        "college": "General",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/emory-university-supplemental-essay-guide/",
+        "university": "Emory University",
+        "essay": "Emory University has a strong commitment to building community. Tell us about a community you have been part of where your participation helped to change or shape the community for the better.",
+        "college": "General",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/emory-university-supplemental-essay-guide/",
+        "university": "Emory University",
+        "essay": "Reflect on a personal experience where you intentionally expanded your cultural awareness.",
+        "college": "General",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/emory-university-supplemental-essay-guide/",
+        "university": "Emory University",
+        "essay": "Emory University\u2019s core mission calls for service to humanity. Share how you might personally contribute to this mission.",
+        "college": "General",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/emory-university-supplemental-essay-guide/",
+        "university": "Emory University",
+        "essay": "In a scholarly community, differing ideas often collide before they converge. How do you personally navigate disagreement in a way that promotes progress and deepens meaningful dialogue?",
         "college": "General",
         "optional": false,
         "needs_review": false
@@ -2594,24 +2610,32 @@
     {
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/tufts-university-supplemental-essay-prompt-guide/",
         "university": "Tufts University",
-        "essay": "Applicants to the School of Engineering are required to answer the following question in 100-200 words:",
-        "college": "General",
+        "essay": "Tell us about one of your favorite school assignments in the past two years. What was the assignment and why did you enjoy it?",
+        "college": "School of Arts and Sciences",
         "optional": false,
         "needs_review": false
     },
     {
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/tufts-university-supplemental-essay-prompt-guide/",
         "university": "Tufts University",
-        "essay": "Applicants to the Bachelor of Fine Arts (BFA) program are required to answer the following question in 100-200 words:",
-        "college": "General",
+        "essay": "Tell us about an engineering-related project that you have helped build, design, create, or iterate in the past two years. What was the project and what was your role?",
+        "college": "School of Engineering",
         "optional": false,
         "needs_review": false
     },
     {
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/tufts-university-supplemental-essay-prompt-guide/",
         "university": "Tufts University",
-        "essay": "Applicants to the Combined Degree (BFA+BA/BS) program are required to answer the following question in 100-200 words:",
-        "college": "General",
+        "essay": "Tell us more about a specific piece in your portfolio. What were the ideas you intended to explore, and how did those ideas inform the process of making the piece?",
+        "college": "Bachelor of Fine Arts (BFA)",
+        "optional": false,
+        "needs_review": false
+    },
+    {
+        "link": "https://www.collegeessayadvisors.com/supplemental-essay/tufts-university-supplemental-essay-prompt-guide/",
+        "university": "Tufts University",
+        "essay": "Tell us more about a specific piece in your portfolio. How did an academic course, project, or interest inspire the ideas that you explored in this piece? Or, how did making this piece influence your academic interests?",
+        "college": "Combined Degree (BFA + BA/BS)",
         "optional": false,
         "needs_review": false
     },
@@ -3099,7 +3123,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/university-of-pennsylvania-upenn-supplemental-essay-prompt-guide/",
         "university": "University of Pennsylvania (UPenn)",
         "essay": "Wharton prepares its students to make an impact by applying business methods and economic theory to real-world problems, including economic, political, and social issues. Please reflect on a current issue of importance to you and share how you hope a Wharton education would help you to explore it. (Up to 200 words)",
-        "college": "General",
+        "college": "Wharton",
         "optional": false,
         "needs_review": false
     },
@@ -3107,7 +3131,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/university-of-pennsylvania-upenn-supplemental-essay-prompt-guide/",
         "university": "University of Pennsylvania (UPenn)",
         "essay": "The College of Arts and Sciences is designed to foster discovery and connection. Describe something you are curious about\u2014something you\u2019d like to learn more about or find a new approach to\u2014and how you might pursue that curiosity in the College. (Up to 200 words)",
-        "college": "General",
+        "college": "Arts and Sciences",
         "optional": false,
         "needs_review": false
     },
@@ -3115,7 +3139,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/university-of-pennsylvania-upenn-supplemental-essay-prompt-guide/",
         "university": "University of Pennsylvania (UPenn)",
         "essay": "Penn Engineering prepares its students to become leaders in technology by combining a strong foundation in the natural sciences and mathematics with depth of study in focused disciplinary majors. Describe how you plan to pursue your engineering interests at Penn, particularly within the intended major you selected. (Up to 200 words)",
-        "college": "General",
+        "college": "Engineering",
         "optional": false,
         "needs_review": false
     },
@@ -3123,7 +3147,7 @@
         "link": "https://www.collegeessayadvisors.com/supplemental-essay/university-of-pennsylvania-upenn-supplemental-essay-prompt-guide/",
         "university": "University of Pennsylvania (UPenn)",
         "essay": "Penn Nursing intends to meet the health needs of society in a global and multicultural world by preparing its students to impact healthcare by advancing science. Why are you applying to Nursing, where do you see yourself professionally in the future, and how will you contribute to our mission of promoting equity in healthcare? (Up to 200 words)",
-        "college": "General",
+        "college": "Nursing",
         "optional": false,
         "needs_review": false
     },

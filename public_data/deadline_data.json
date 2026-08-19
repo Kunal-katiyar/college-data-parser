@@ -5076,6 +5076,15 @@
         "RD_deadline": "Rolling"
     },
     {
+        "university": "University of California",
+        "ED_deadline": "",
+        "ED2_deadline": "",
+        "EA_deadline": "",
+        "EA2_deadline": "",
+        "REA_deadline": "",
+        "RD_deadline": "11/30/26"
+    },
+    {
         "university": "University of Chicago",
         "ED_deadline": "11/2/2026",
         "ED2_deadline": "1/4/2027",
