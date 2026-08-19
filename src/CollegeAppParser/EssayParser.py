@@ -44,7 +44,8 @@ class EssayParser:
         Returns a list of all links found in the main essay guide.
         """
 
-        response = requests.get("https://www.collegeessayadvisors.com/supplemental-essay-guide/")
+        url = "https://www.collegeessayadvisors.com/supplemental-essay-guide/"
+        response = requests.get(url)
 
         if (response.status_code != 200):
             raise ConnectionError("Failed to connect to " + url)
