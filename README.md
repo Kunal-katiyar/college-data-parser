@@ -39,3 +39,98 @@ Anyone is allowed to use the public JSON files located in the `public_data` fold
 in a project, consider starring the repository. It takes a lot of time and effort to manually review the data, 
 so I'd appreciate the support!
 
+# Package Documentation
+## EssayParser.py
+<details>
+<summary><b><code>EssayParser.__init__()</code></b></summary>
+
+### `EssayParser.__init__()`
+| Parameter | Type | Default | Description |
+| :--- | :--- | :--- | :--- |
+| `file` | `str` | *Required* | The JSON file that the instance will write to and read from. |
+
+**Raises:**
+* `FileNotFoundError`: If `file` is not a valid file path in your project.
+* `ConnectionError`: If the method fails to connect to the website for parsing.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Initialize an EssayParser object
+EP = EssayParser('path/to/your_file.json')
+```
+</details>
+
+<details>
+<summary><b><code>EssayParser.getURLs()</code></b></summary>
+
+### `EssayParser.getURLs()`
+
+**No Parameters**  
+*This is a static method.*
+
+**Raises:**
+* `ConnectionError`: If the method fails to connect to the website for parsing.
+
+**Returns:**
+* `list`: The list of all links found in the main essay guide.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Print out all URLs
+print(EssayParser.getURLs())
+```
+</details>
+
+<details>
+<summary><b><code>EssayParser.getAccessibleURLs()</code></b></summary>
+
+### `EssayParser.getAccessibleURLs()`
+
+**No Parameters**  
+*This is a static method.*
+
+**Raises:**
+* `ConnectionError`: If the method fails to connect to the website for parsing.
+
+**Returns:**
+* `list`: The list of all accessible and parsable links found in the main essay guide.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Print out all accessible URLs
+print(EssayParser.getAccessibleURLs())
+```
+</details>
+
+<details>
+<summary><b><code>EssayParser.getInaccessibleURLs()</code></b></summary>
+
+### `EssayParser.getInaccessibleURLs()`
+
+**No Parameters**  
+*This is a static method.*
+
+**Raises:**
+* `ConnectionError`: If the method fails to connect to the website for parsing.
+
+**Returns:**
+* `list`: The list of all inaccessible and unparsable links found in the main essay guide.
+
+**Example:**
+```python
+from CollegeAppParser import EssayParser
+
+# Print out all inaccessible URLs
+print(EssayParser.getInaccessibleURLs())
+```
+</details>
+
+
+## 📄 License
+Distributed under the terms of the MIT License. Check out the `LICENSE` file for more concrete legal information.
